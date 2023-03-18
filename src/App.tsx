@@ -8,7 +8,7 @@ function App() {
     <Container maxWidth="xl">
       <Box sx={{ my: 4 }}>
         <Typography variant="h4" component="h1" gutterBottom>
-          Create React App v5 example
+          Vite React + TypeScript + Material UI
         </Typography>
         <Button variant="contained" onClick={() => setCount((c) => c + 1)}>
           Count is: {count}
